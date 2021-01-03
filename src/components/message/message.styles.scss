@@ -1,0 +1,103 @@
+@import "../../assets/sass/theme";
+
+
+.message {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  display: flex;
+  flex-direction: row;
+
+  &-time-tag {
+
+    font-size: 10px;
+    position: absolute;
+    right: 5px;
+    top: -22px;
+    padding: 5px;
+    margin-bottom: 100px;
+    background-color: $color-accent;
+    text-align: center;
+    visibility: hidden;
+    border-radius: 2px;
+  }
+  &-messages-date{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: Roboto-Regular, sans-serif;
+    font-size: 11px;
+    text-align: center;
+
+
+
+  }
+
+  &-user-icon {
+    padding-left: 5px;
+
+  }
+
+  &-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  &-content {
+    display: inline-block;
+    flex-direction: column;
+    position: relative;
+
+    &:hover>.message-time-tag {
+      visibility: visible;
+    }
+
+
+    &-text {
+      margin-right: 10px;
+      padding: 7px;
+      background: $color-primary;
+      line-break: anywhere;
+      color: $color-white;
+      font-size: 14px;
+      border-radius: 14px;
+
+    }
+
+    &-document {
+      padding: 10px;
+      margin-bottom: 5px;
+      margin-right: 8px;
+      border-radius: 10px;
+      box-shadow:
+        0px 2px 4px rgba(0, 0, 0, 0.25);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+
+      &-download{
+        text-decoration: none !important;
+      }
+
+      &-name {
+        text-align: center;
+        font-family: Roboto-Medium, sans-serif;
+        font-size: 13px;
+        text-align: center;
+        margin-top: 7px;
+      }
+    }
+  }
+
+
+
+  &-limits {
+    width: 200px;
+    display: flex;
+  }
+}
+
+.emoji {
+  width: 25px;
+  height: 25px;
+}

@@ -1,0 +1,4 @@
+{
+    "gifsUrlSearch": "https://api.giphy.com/v1/gifs/search?api_key=dQiMbrYRUFCCkAUY28RbdnfwWyOF7t9V",
+    "gifsUrlTrending": "https://api.giphy.com/v1/gifs/trending?api_key=dQiMbrYRUFCCkAUY28RbdnfwWyOF7t9V"
+}

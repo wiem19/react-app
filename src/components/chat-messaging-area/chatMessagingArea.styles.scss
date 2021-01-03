@@ -1,0 +1,40 @@
+@import "../../assets/sass/theme";
+
+.messages {
+
+    &-area {
+        transition: height 0.3s;
+    }
+
+
+    &-area-default {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-end;
+        margin-left: 19px;
+        ;
+    }
+
+
+
+
+    &-search-healper-area {
+        margin-top: 18px;
+        width: 287px;
+        height: 77px;
+        background-color: $color-accent;
+        border-radius: 14px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        &-indicator {
+            font-family: Roboto-Medium, sans-serif;
+            font-size: 13px;
+            color: $color-white;
+            text-align: center;
+            margin-top: 7px;
+        }
+    }
+
+}

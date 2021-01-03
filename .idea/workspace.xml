@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca492de4-941c-4d3e-897f-6816eafdf776" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/chat-box-icon/chatBoxIcon.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/chat-box-icon/chatBoxIcon.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/chat-box-icon/chatBoxIcon.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/chat-box-icon/chatBoxIcon.styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/chat-box/chatBox.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/chat-box/chatBox.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/chat-messaging-area/chatMessagingArea.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/chat-messaging-area/chatMessagingArea.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/chat-typing-area/chatTypingArea.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/chat-typing-area/chatTypingArea.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/disconnected/disconnected.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/disconnected/disconnected.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/icon/icon.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/icon/icon.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/icon/icon.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/icon/icon.styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/message/message.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/message/message.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/users-list/userList.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/users-list/userList.component.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/webRtcService/appEntity.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/webRtcService/janus/config.janus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/webRtcService/janus/janus.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/webRtcService/jitsi/config.jitsi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/webRtcService/jitsi/jitsi.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/webRtcService/jitsi/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/webRtcService/webRtcService.interface.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/current-user-slice/current-user.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/current-user-slice/current-user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/messages-slice/messages.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/messages-slice/messages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/middleware/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/middleware/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/rootReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/rootReducer.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="onto" value="ec088764a18f2ff88548c3aa4b7b89f26802ceb9" />
+  </component>
+  <component name="ProjectId" id="1fM7PtaCEikYGRX9dwfyNYjkWdj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="messagesFragment.component.jsx" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/components/messages-fragment/messagesFragment.component.jsx" working-dir="$PROJECT_DIR$/src/components/messages-fragment">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.messagesFragment.component.jsx" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca492de4-941c-4d3e-897f-6816eafdf776" name="Default Changelist" comment="" />
+      <created>1596016086773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596016086773</updated>
+      <workItem from="1596016088222" duration="7885000" />
+      <workItem from="1596039689459" duration="2734000" />
+      <workItem from="1596098593007" duration="21110000" />
+      <workItem from="1596458728649" duration="6171000" />
+      <workItem from="1596526245950" duration="12329000" />
+      <workItem from="1596697317437" duration="818000" />
+      <workItem from="1597360054964" duration="24906000" />
+      <workItem from="1597651155437" duration="13825000" />
+      <workItem from="1598280943653" duration="633000" />
+      <workItem from="1598361518355" duration="603000" />
+      <workItem from="1598445811961" duration="27000" />
+    </task>
+    <task id="LOCAL-00001" summary="the complete view of the component without functionalities">
+      <created>1596038591608</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596038591608</updated>
+    </task>
+    <task id="LOCAL-00002" summary="the complete view of the component without functionalities">
+      <created>1596038820687</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596038820687</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adding gifs and improving the view">
+      <created>1596459061963</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596459061963</updated>
+    </task>
+    <task id="LOCAL-00004" summary="refactoring more components and adding other functionalities to the store and the chat component">
+      <created>1596562957703</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596562957703</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="downloading react" />
+    <MESSAGE value="the complete view of the component without functionalities" />
+    <MESSAGE value="adding gifs and improving the view" />
+    <MESSAGE value="refactoring more components and adding other functionalities to the store and the chat component" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactoring more components and adding other functionalities to the store and the chat component" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="556" y="35" width="800" height="677" key="#Deployment" timestamp="1597389693465">
+      <screen x="400" y="0" width="966" height="768" />
+    </state>
+    <state x="556" y="35" width="800" height="677" key="#Deployment/0.768.1366.768/400.0.966.768@400.0.966.768" timestamp="1597389693465" />
+    <state x="297" y="35" width="800" height="677" key="#Deployment/361.1080.1366.768/39.0.1327.768@39.0.1327.768" timestamp="1596017573412" />
+    <state x="658" y="1115" width="800" height="677" key="#Deployment/361.1080.1366.768/400.0.1520.1080@361.1080.1366.768" timestamp="1596461798925" />
+    <state x="730" y="49" width="800" height="677" key="#Deployment/361.1080.1366.768/400.0.1520.1080@400.0.1520.1080" timestamp="1596460221490" />
+    <state x="757" y="76" width="832" height="704" key="#SSH_Configurations" timestamp="1596459904260">
+      <screen x="400" y="0" width="1520" height="1080" />
+    </state>
+    <state x="682" y="1134" width="832" height="704" key="#SSH_Configurations/361.1080.1366.768/400.0.1520.1080@361.1080.1366.768" timestamp="1596101409638" />
+    <state x="757" y="76" width="832" height="704" key="#SSH_Configurations/361.1080.1366.768/400.0.1520.1080@400.0.1520.1080" timestamp="1596459904260" />
+    <state x="596" y="1080" width="925" height="974" key="CommitChangelistDialog2" timestamp="1596562956830">
+      <screen x="361" y="1080" width="1366" height="768" />
+    </state>
+    <state x="596" y="1080" width="925" height="768" key="CommitChangelistDialog2/361.1080.1366.768/400.0.1520.1080@361.1080.1366.768" timestamp="1596562956830" />
+    <state x="661" y="0" width="925" height="974" key="CommitChangelistDialog2/361.1080.1366.768/400.0.1520.1080@400.0.1520.1080" timestamp="1596459061216" />
+    <state x="508" y="1142" width="1092" height="644" key="DiffContextDialog" timestamp="1596463738643">
+      <screen x="361" y="1080" width="1366" height="768" />
+    </state>
+    <state x="508" y="1142" width="1092" height="644" key="DiffContextDialog/361.1080.1366.768/400.0.1520.1080@361.1080.1366.768" timestamp="1596463738643" />
+    <state x="846" y="1212" width="424" height="484" key="FileChooserDialogImpl" timestamp="1596119649639">
+      <screen x="361" y="1080" width="1366" height="768" />
+    </state>
+    <state x="846" y="1212" width="424" height="484" key="FileChooserDialogImpl/361.1080.1366.768/400.0.1520.1080@361.1080.1366.768" timestamp="1596119649639" />
+    <state x="558" y="1140" width="1000" height="627" key="Git.Interactive.Rebase.Dialog" timestamp="1596038922076">
+      <screen x="361" y="1080" width="1366" height="768" />
+    </state>
+    <state x="558" y="1140" width="1000" height="627" key="Git.Interactive.Rebase.Dialog/361.1080.1366.768/400.0.1520.1080@361.1080.1366.768" timestamp="1596038922076" />
+    <state width="1302" height="179" key="GridCell.Tab.0.bottom" timestamp="1596124542406">
+      <screen x="361" y="1080" width="1366" height="768" />
+    </state>
+    <state width="1302" height="179" key="GridCell.Tab.0.bottom/361.1080.1366.768/400.0.1520.1080@361.1080.1366.768" timestamp="1596124542406" />
+    <state width="1302" height="179" key="GridCell.Tab.0.center" timestamp="1596124542405">
+      <screen x="361" y="1080" width="1366" height="768" />
+    </state>
+    <state width="1302" height="179" key="GridCell.Tab.0.center/361.1080.1366.768/400.0.1520.1080@361.1080.1366.768" timestamp="1596124542405" />
+    <state width="1302" height="179" key="GridCell.Tab.0.left" timestamp="1596124542405">
+      <screen x="361" y="1080" width="1366" height="768" />
+    </state>
+    <state width="1302" height="179" key="GridCell.Tab.0.left/361.1080.1366.768/400.0.1520.1080@361.1080.1366.768" timestamp="1596124542405" />
+    <state width="1302" height="179" key="GridCell.Tab.0.right" timestamp="1596124542405">
+      <screen x="361" y="1080" width="1366" height="768" />
+    </state>
+    <state width="1302" height="179" key="GridCell.Tab.0.right/361.1080.1366.768/400.0.1520.1080@361.1080.1366.768" timestamp="1596124542405" />
+    <state x="610" y="109" width="800" height="529" key="Vcs.Push.Dialog.v2" timestamp="1597423827058">
+      <screen x="400" y="0" width="966" height="768" />
+    </state>
+    <state x="610" y="109" key="Vcs.Push.Dialog.v2/0.768.1366.768/400.0.966.768@400.0.966.768" timestamp="1597423827058" />
+    <state x="658" y="1189" width="800" height="529" key="Vcs.Push.Dialog.v2/361.1080.1366.768/400.0.1520.1080@361.1080.1366.768" timestamp="1596562965498" />
+    <state x="730" y="153" key="Vcs.Push.Dialog.v2/361.1080.1366.768/400.0.1520.1080@400.0.1520.1080" timestamp="1596459085812" />
+    <state x="761" y="1104" width="594" height="700" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1596125969612">
+      <screen x="361" y="1080" width="1366" height="768" />
+    </state>
+    <state x="761" y="1104" width="594" height="700" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/361.1080.1366.768/400.0.1520.1080@361.1080.1366.768" timestamp="1596125969612" />
+    <state x="805" y="1308" width="506" height="291" key="git4idea.rebase.GitRebaseDialog" timestamp="1596038915777">
+      <screen x="361" y="1080" width="1366" height="768" />
+    </state>
+    <state x="805" y="1308" width="506" height="291" key="git4idea.rebase.GitRebaseDialog/361.1080.1366.768/400.0.1520.1080@361.1080.1366.768" timestamp="1596038915777" />
+    <state width="600" height="428" key="javadoc.popup" timestamp="1596116242902">
+      <screen x="361" y="1080" width="1366" height="768" />
+    </state>
+    <state width="600" height="428" key="javadoc.popup/361.1080.1366.768/400.0.1520.1080@361.1080.1366.768" timestamp="1596116242902" />
+    <state x="619" y="247" width="266" height="253" key="publish.login" timestamp="1597652788765">
+      <screen x="196" y="0" width="1024" height="768" />
+    </state>
+    <state x="619" y="247" key="publish.login/0.768.1366.768/196.0.1024.768@196.0.1024.768" timestamp="1597652788765" />
+    <state x="799" y="247" width="266" height="253" key="publish.login/0.768.1366.768/400.0.966.768@400.0.966.768" timestamp="1597389606204" />
+    <state x="925" y="1327" width="266" height="253" key="publish.login/361.1080.1366.768/400.0.1520.1080@361.1080.1366.768" timestamp="1596526327844" />
+    <state x="1028" y="347" key="publish.login/361.1080.1366.768/400.0.1520.1080@400.0.1520.1080" timestamp="1596459703393" />
+    <state x="727" y="704" key="run.anything.popup" timestamp="1596117104193">
+      <screen x="400" y="0" width="1520" height="1080" />
+    </state>
+    <state x="727" y="704" key="run.anything.popup/361.1080.1366.768/400.0.1520.1080@361.1080.1366.768" timestamp="1596117104193" />
+    <state x="727" y="1110" width="672" height="676" key="search.everywhere.popup" timestamp="1597398680175">
+      <screen x="0" y="768" width="1366" height="768" />
+    </state>
+    <state x="727" y="1110" width="672" height="676" key="search.everywhere.popup/0.768.1366.768/400.0.966.768@400.0.966.768" timestamp="1597398680175" />
+  </component>
+</project>

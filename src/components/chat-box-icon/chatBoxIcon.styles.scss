@@ -1,0 +1,49 @@
+.icon-wrapper {
+    float: right;
+    right: 9px;
+    bottom: 20px;
+    position: absolute;
+    width: 60px;
+    height: 60px;
+}
+
+.icon-unread-message {
+    background-color: red;
+    color: white;
+    width: 22px;
+    height: 22px;
+    text-align: center;
+    border-radius: 50%;
+    position: relative;
+    margin-left: auto;
+    top: 20px
+}
+
+.icon-animation {
+
+    &:active {
+        animation-name: icon-animation;
+        animation-duration: 0.01s;
+        animation-iteration-count: 1;
+    }
+
+}
+
+
+@keyframes icon-animation {
+
+    0% {
+        width: 57px;
+        height: 57px;
+    }
+
+    50% {
+        width: 60px;
+        height: 60px;
+    }
+
+    100% {
+        width: 0px;
+        height: 0px;
+    }
+}

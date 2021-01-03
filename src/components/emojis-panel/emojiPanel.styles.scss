@@ -1,0 +1,18 @@
+.emojis-panel {
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    transition: width 5s;
+    position: absolute;
+
+
+
+    &-emoji {
+        padding: 10px;
+        cursor: pointer;
+    }
+}
+
+span {
+    font-size: 32px;
+}

@@ -1,0 +1,14 @@
+.gif {
+    height: 60px;
+    width: 70px;
+    cursor: pointer;
+    margin: 2px 10px 2px 10px;
+    border-radius: 4px;
+    transition: width 0.5s;
+    transition: height 0.1s;
+
+    // &:hover {
+    //     width: 75px;
+    //     height: 65px;
+    // }
+}

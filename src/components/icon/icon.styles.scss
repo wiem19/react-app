@@ -1,0 +1,49 @@
+@import "../../assets/sass/theme";
+
+@mixin center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+
+}
+
+
+
+.icon {
+    @include center;
+    margin-right: 5px;
+
+
+    &-image {
+        border-radius: 50%;
+        width: 100%;
+        height: 100%;
+        display: flex;
+    }
+
+    &-intials {
+        width: 34px;
+        color: white;
+        background-color: $color-accent;
+        height: 34px;
+        text-align: center;
+        font-family: Roboto-Bold, sans-serif !important;
+        font-size: 16px;
+        @include center;
+        cursor: pointer;
+
+    }
+
+    &-content {
+
+        @include center;
+        font-family: Roboto-Bold, sans-serif !important;
+        font-size: 12px;
+        text-align: center;
+        margin: 0;
+        color: $color-white;
+
+
+    }
+}

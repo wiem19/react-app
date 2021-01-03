@@ -1,0 +1,65 @@
+@import "./../../assets/sass/theme";
+
+.emojis-gifs-panel {
+
+    right: 0;
+    left: 0;
+
+    bottom: 60px !important;
+
+    flex-direction: column;
+    background-color: $color-white;
+    animation-name: expand-animation;
+    animation-duration: 0.3s;
+
+    overflow-y: hidden;
+
+    &-btn {
+
+        background-color: $color-primary;
+        border: none;
+        color: $color-white;
+        padding: 2px 4px;
+        cursor: pointer;
+        border-radius: 2px;
+        margin-left: 1px;
+
+        &:focus {
+            outline: 0px;
+        }
+
+        &-active {
+            background: $color-white;
+            border: none;
+            color: $color-black;
+            border: 1px solid $color-white !important;
+        }
+    }
+
+    &-btn-group {
+        padding-top: 10px;
+        display: flex;
+        justify-content: center;
+
+
+
+    }
+}
+
+
+@keyframes expand-animation {
+
+    0% {
+        height: 0;
+        opacity: 0;
+        display: none;
+    }
+
+    100% {
+        opacity: 1;
+        height: 100px;
+        display: contents;
+    }
+
+
+}

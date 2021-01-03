@@ -1,0 +1,6 @@
+{
+    "server": [
+        "ws://yourserver:8188/",
+        "http://yourserver:8088/janus"
+    ]
+}

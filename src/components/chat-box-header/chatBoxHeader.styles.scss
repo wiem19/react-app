@@ -1,0 +1,36 @@
+@import "../../assets/sass/theme";
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 19px;
+    padding-top: 10px;
+    padding-left: 14px;
+    height: 90px;
+    background: linear-gradient(to left, $color-primary, $color-primary-light);
+
+    &-title {
+        font-size: 12px;
+        color: $color-white;
+        font-family: Roboto-Bold, sans-serif;
+        font-size: 13px;
+    }
+
+    &-subtitle {
+        margin-top: 10px;
+
+        color: $color-white;
+        font-family: Roboto-Regular, sans-serif;
+        font-size: 12px;
+    }
+
+    &-user-list {
+        margin-top: 11px;
+
+    }
+
+    &-icon-close {
+        font-size: 10px;
+        cursor: pointer;
+    }
+}

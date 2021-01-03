@@ -1,0 +1,32 @@
+@import "../../assets/sass/theme";
+
+
+
+.group {
+    position: relative;
+
+
+    .form-input {
+        background: none;
+        background-color: $color-white;
+        color: $color-black;
+        text-align: center;
+        font-size: 13px;
+        height: 20px;
+        display: block;
+        width: 100%;
+        border: none;
+        border-radius: 0;
+        border-bottom: 0.5px solid $color-accent-light;
+        margin: 15px 0;
+
+        &:focus {
+            outline: none;
+            border-bottom: 1px solid $color-accent;
+        }
+
+    }
+
+
+
+}

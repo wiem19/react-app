@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ced141e6-76a4-47af-b5d6-1e1e846b8cde" name="sastec" url="http://gwalha-dev-beta.webtv-solution.com ">
+        <fileTransfer rootFolder="/home/gwalha/htdocs/chat-micro-front" accessType="SFTP" host="dev-beta.webtv-solution.com" port="22" sshConfigId="a51368c7-3e85-4537-9df5-c7a2fff98ebc" sshConfig="sastec" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

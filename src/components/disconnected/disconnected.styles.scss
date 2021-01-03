@@ -1,0 +1,65 @@
+@import "../../assets/sass/theme";
+
+.disconnected-header {
+    display: flex;
+    border-bottom: 1px solid $color-accent-light;
+    position: absolute;
+    left: 0;
+    right: 0;
+    align-items: center;
+    padding-right: 19px;
+    z-index: 100;
+    padding-left: 14px;
+    height: 50px;
+    background: $color-white;
+
+
+    &-alert {
+        margin-right: 10px;
+        animation-name: alert-animation;
+        animation-duration: 3s;
+        animation-iteration-count: infinite;
+    }
+
+    &-title {
+        font-size: 12px;
+        color: $color-black;
+        font-family: Roboto-Bold, sans-serif;
+        font-size: 13px;
+    }
+
+    &-subtitle {
+        margin-top: 10px;
+
+        color: $color-black;
+        font-family: Roboto-Regular, sans-serif;
+        font-size: 12px;
+    }
+
+
+
+}
+
+.disconnected-header span {
+    font-size: 20px;
+    cursor: pointer;
+
+
+}
+
+
+@keyframes alert-animation {
+
+    0% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+
+}
